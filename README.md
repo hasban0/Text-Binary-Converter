@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to [Your Name](mailto:hasankarakaya0341@gmail.com).
+For any questions or suggestions, feel free to reach out to [Hasan Hüseyin KARAKAYA](mailto:hasankarakaya0341@gmail.com).
 
