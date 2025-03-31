@@ -1,4 +1,4 @@
-# TextToBinary Converter
+# Text To Binary Converter
 
 This is a simple Windows Forms application that allows you to convert text to binary and binary to text. It provides a user-friendly interface for inputting text or binary strings and viewing the conversion results. You can also copy the output to the clipboard for easy sharing.
 
